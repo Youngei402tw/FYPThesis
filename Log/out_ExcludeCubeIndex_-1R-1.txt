@@ -1,0 +1,1835 @@
+Permutation for 1 rounds
+After optimized
+0.0010376sec
+Infeasible for round 1
+Permutation for 2 rounds
+After optimized
+0.00104523sec
+Infeasible for round 2
+Permutation for 3 rounds
+After optimized
+0sec
+Infeasible for round 3
+Permutation for 4 rounds
+After optimized
+0.000953674sec
+Infeasible for round 4
+Permutation for 5 rounds
+After optimized
+0sec
+Infeasible for round 5
+Permutation for 6 rounds
+After optimized
+0.000951767sec
+Infeasible for round 6
+Permutation for 7 rounds
+After optimized
+0.00103951sec
+Infeasible for round 7
+Permutation for 8 rounds
+After optimized
+0sec
+Infeasible for round 8
+Permutation for 9 rounds
+After optimized
+0.000976562sec
+Infeasible for round 9
+Permutation for 10 rounds
+After optimized
+0.000995636sec
+Infeasible for round 10
+Permutation for 11 rounds
+After optimized
+0.000997543sec
+Infeasible for round 11
+Permutation for 12 rounds
+After optimized
+0.000993729sec
+Infeasible for round 12
+Permutation for 13 rounds
+After optimized
+0.000995636sec
+Infeasible for round 13
+Permutation for 14 rounds
+After optimized
+0.000995636sec
+Infeasible for round 14
+Permutation for 15 rounds
+After optimized
+0.000995636sec
+Infeasible for round 15
+Permutation for 16 rounds
+After optimized
+0.000986099sec
+Infeasible for round 16
+Permutation for 17 rounds
+After optimized
+0.000995636sec
+Infeasible for round 17
+Permutation for 18 rounds
+After optimized
+0.000995636sec
+Infeasible for round 18
+Permutation for 19 rounds
+After optimized
+0.000997543sec
+Infeasible for round 19
+Permutation for 20 rounds
+After optimized
+0.000993729sec
+Infeasible for round 20
+Permutation for 21 rounds
+After optimized
+0.00199127sec
+Infeasible for round 21
+Permutation for 22 rounds
+After optimized
+0.000995636sec
+Infeasible for round 22
+Permutation for 23 rounds
+After optimized
+0.000995636sec
+Infeasible for round 23
+Permutation for 24 rounds
+After optimized
+0.000997543sec
+Infeasible for round 24
+Permutation for 25 rounds
+After optimized
+0.000951767sec
+Infeasible for round 25
+Permutation for 26 rounds
+After optimized
+0.000993729sec
+Infeasible for round 26
+Permutation for 27 rounds
+After optimized
+0.0010376sec
+Infeasible for round 27
+Permutation for 28 rounds
+After optimized
+0.000995636sec
+Infeasible for round 28
+Permutation for 29 rounds
+After optimized
+0.000991821sec
+Infeasible for round 29
+Permutation for 30 rounds
+After optimized
+0.000993729sec
+Infeasible for round 30
+Permutation for 31 rounds
+After optimized
+0.000995636sec
+Infeasible for round 31
+Permutation for 32 rounds
+After optimized
+0.000995636sec
+Infeasible for round 32
+Permutation for 33 rounds
+After optimized
+0.000995636sec
+Infeasible for round 33
+Permutation for 34 rounds
+After optimized
+0.000995636sec
+Infeasible for round 34
+Permutation for 35 rounds
+After optimized
+0.000995636sec
+Infeasible for round 35
+Permutation for 36 rounds
+After optimized
+0.000993729sec
+Infeasible for round 36
+Permutation for 37 rounds
+After optimized
+0.000997543sec
+Infeasible for round 37
+Permutation for 38 rounds
+After optimized
+0.000995636sec
+Infeasible for round 38
+Permutation for 39 rounds
+After optimized
+0.00199127sec
+Infeasible for round 39
+Permutation for 40 rounds
+After optimized
+0.00198746sec
+Infeasible for round 40
+Permutation for 41 rounds
+After optimized
+0.00198936sec
+Infeasible for round 41
+Permutation for 42 rounds
+After optimized
+0.000995636sec
+Infeasible for round 42
+Permutation for 43 rounds
+After optimized
+0.00199509sec
+Infeasible for round 43
+Permutation for 44 rounds
+After optimized
+0.000993729sec
+Infeasible for round 44
+Permutation for 45 rounds
+After optimized
+0.000997543sec
+Infeasible for round 45
+Permutation for 46 rounds
+After optimized
+0.00198936sec
+Infeasible for round 46
+Permutation for 47 rounds
+After optimized
+0.000999451sec
+Infeasible for round 47
+Permutation for 48 rounds
+After optimized
+0.00199127sec
+Infeasible for round 48
+Permutation for 49 rounds
+After optimized
+0.00198936sec
+Infeasible for round 49
+Permutation for 50 rounds
+After optimized
+0.00198936sec
+Infeasible for round 50
+Permutation for 51 rounds
+After optimized
+0.00198936sec
+Infeasible for round 51
+Permutation for 52 rounds
+After optimized
+0.00198936sec
+Infeasible for round 52
+Permutation for 53 rounds
+After optimized
+0.00203514sec
+Infeasible for round 53
+Permutation for 54 rounds
+After optimized
+0.000993729sec
+Infeasible for round 54
+Permutation for 55 rounds
+After optimized
+0.00199127sec
+Infeasible for round 55
+Permutation for 56 rounds
+After optimized
+0.000993729sec
+Infeasible for round 56
+Permutation for 57 rounds
+After optimized
+0.00199127sec
+Infeasible for round 57
+Permutation for 58 rounds
+After optimized
+0.000993729sec
+Infeasible for round 58
+Permutation for 59 rounds
+After optimized
+0.00203514sec
+Infeasible for round 59
+Permutation for 60 rounds
+After optimized
+0.0019455sec
+Infeasible for round 60
+Permutation for 61 rounds
+After optimized
+0.000995636sec
+Infeasible for round 61
+Permutation for 62 rounds
+After optimized
+0.000953674sec
+Infeasible for round 62
+Permutation for 63 rounds
+After optimized
+0.000993729sec
+Infeasible for round 63
+Permutation for 64 rounds
+After optimized
+0.00199127sec
+Infeasible for round 64
+Permutation for 65 rounds
+After optimized
+0.000997543sec
+Infeasible for round 65
+Permutation for 66 rounds
+After optimized
+0.00199127sec
+Infeasible for round 66
+Permutation for 67 rounds
+After optimized
+0.00198936sec
+Infeasible for round 67
+Permutation for 68 rounds
+After optimized
+0.000984192sec
+Infeasible for round 68
+Permutation for 69 rounds
+After optimized
+0.00298882sec
+Infeasible for round 69
+Permutation for 70 rounds
+After optimized
+0.000999451sec
+Infeasible for round 70
+Permutation for 71 rounds
+After optimized
+0.00199127sec
+Infeasible for round 71
+Permutation for 72 rounds
+After optimized
+0.00199127sec
+Infeasible for round 72
+Permutation for 73 rounds
+After optimized
+0.000993729sec
+Infeasible for round 73
+Permutation for 74 rounds
+After optimized
+0.000997543sec
+Infeasible for round 74
+Permutation for 75 rounds
+After optimized
+0.00199318sec
+Infeasible for round 75
+Permutation for 76 rounds
+After optimized
+0.00203514sec
+Infeasible for round 76
+Permutation for 77 rounds
+After optimized
+0.000995636sec
+Infeasible for round 77
+Permutation for 78 rounds
+After optimized
+0.000995636sec
+Infeasible for round 78
+Permutation for 79 rounds
+After optimized
+0.000995636sec
+Infeasible for round 79
+Permutation for 80 rounds
+After optimized
+0.00199127sec
+Infeasible for round 80
+Permutation for 81 rounds
+After optimized
+0.00199318sec
+Infeasible for round 81
+Permutation for 82 rounds
+After optimized
+0.000989914sec
+Infeasible for round 82
+Permutation for 83 rounds
+After optimized
+0.00199127sec
+Infeasible for round 83
+Permutation for 84 rounds
+After optimized
+0.00199127sec
+Infeasible for round 84
+Permutation for 85 rounds
+After optimized
+0.000997543sec
+Infeasible for round 85
+Permutation for 86 rounds
+After optimized
+0.00198746sec
+Infeasible for round 86
+Permutation for 87 rounds
+After optimized
+0.00199127sec
+Infeasible for round 87
+Permutation for 88 rounds
+After optimized
+0.000995636sec
+Infeasible for round 88
+Permutation for 89 rounds
+After optimized
+0.00298691sec
+Infeasible for round 89
+Permutation for 90 rounds
+After optimized
+0.00298882sec
+Infeasible for round 90
+Permutation for 91 rounds
+After optimized
+0.00199318sec
+Infeasible for round 91
+Permutation for 92 rounds
+After optimized
+0.00199318sec
+Infeasible for round 92
+Permutation for 93 rounds
+After optimized
+0.00199318sec
+Infeasible for round 93
+Permutation for 94 rounds
+After optimized
+0.00198174sec
+Infeasible for round 94
+Permutation for 95 rounds
+After optimized
+0.00199127sec
+Infeasible for round 95
+Permutation for 96 rounds
+After optimized
+0.00199127sec
+Infeasible for round 96
+Permutation for 97 rounds
+After optimized
+0.00198936sec
+Infeasible for round 97
+Permutation for 98 rounds
+After optimized
+0.00198746sec
+Infeasible for round 98
+Permutation for 99 rounds
+After optimized
+0.00203705sec
+Infeasible for round 99
+Permutation for 100 rounds
+After optimized
+0.00294304sec
+Infeasible for round 100
+Permutation for 101 rounds
+After optimized
+0.00199127sec
+Infeasible for round 101
+Permutation for 102 rounds
+After optimized
+0.000999451sec
+Infeasible for round 102
+Permutation for 103 rounds
+After optimized
+0.00198936sec
+Infeasible for round 103
+Permutation for 104 rounds
+After optimized
+0.00198936sec
+Infeasible for round 104
+Permutation for 105 rounds
+After optimized
+0.00298309sec
+Infeasible for round 105
+Permutation for 106 rounds
+After optimized
+0.000995636sec
+Infeasible for round 106
+Permutation for 107 rounds
+After optimized
+0.00597191sec
+Infeasible for round 107
+Permutation for 108 rounds
+After optimized
+0.000995636sec
+Infeasible for round 108
+Permutation for 109 rounds
+After optimized
+0.00194168sec
+Infeasible for round 109
+Permutation for 110 rounds
+After optimized
+0.00198936sec
+Infeasible for round 110
+Permutation for 111 rounds
+After optimized
+0.00199509sec
+Infeasible for round 111
+Permutation for 112 rounds
+After optimized
+0.00199318sec
+Infeasible for round 112
+Permutation for 113 rounds
+After optimized
+0.00298691sec
+Infeasible for round 113
+Permutation for 114 rounds
+After optimized
+0.00199509sec
+Infeasible for round 114
+Permutation for 115 rounds
+After optimized
+0.00198746sec
+Infeasible for round 115
+Permutation for 116 rounds
+After optimized
+0.000995636sec
+Infeasible for round 116
+Permutation for 117 rounds
+After optimized
+0.00198746sec
+Infeasible for round 117
+Permutation for 118 rounds
+After optimized
+0.00299263sec
+Infeasible for round 118
+Permutation for 119 rounds
+After optimized
+0.0019455sec
+Infeasible for round 119
+Permutation for 120 rounds
+After optimized
+0.00199127sec
+Infeasible for round 120
+Permutation for 121 rounds
+After optimized
+0.000995636sec
+Infeasible for round 121
+Permutation for 122 rounds
+After optimized
+0.00199509sec
+Infeasible for round 122
+Permutation for 123 rounds
+After optimized
+0.00199509sec
+Infeasible for round 123
+Permutation for 124 rounds
+After optimized
+0.00298882sec
+Infeasible for round 124
+Permutation for 125 rounds
+After optimized
+0.00203896sec
+Infeasible for round 125
+Permutation for 126 rounds
+After optimized
+0.00298882sec
+Infeasible for round 126
+Permutation for 127 rounds
+After optimized
+0.00199318sec
+Infeasible for round 127
+Permutation for 128 rounds
+After optimized
+0.00298691sec
+Infeasible for round 128
+Permutation for 129 rounds
+After optimized
+0.00199318sec
+Infeasible for round 129
+Permutation for 130 rounds
+After optimized
+0.00199127sec
+Infeasible for round 130
+Permutation for 131 rounds
+After optimized
+0.00199318sec
+Infeasible for round 131
+Permutation for 132 rounds
+After optimized
+0.00199127sec
+Infeasible for round 132
+Permutation for 133 rounds
+After optimized
+0.00199318sec
+Infeasible for round 133
+Permutation for 134 rounds
+After optimized
+0.00198936sec
+Infeasible for round 134
+Permutation for 135 rounds
+After optimized
+0.0019455sec
+Infeasible for round 135
+Permutation for 136 rounds
+After optimized
+0.00198936sec
+Infeasible for round 136
+Permutation for 137 rounds
+After optimized
+0.00199318sec
+Infeasible for round 137
+Permutation for 138 rounds
+After optimized
+0.00298691sec
+Infeasible for round 138
+Permutation for 139 rounds
+After optimized
+0.00202751sec
+Infeasible for round 139
+Permutation for 140 rounds
+After optimized
+0.00299072sec
+Infeasible for round 140
+Permutation for 141 rounds
+After optimized
+0.00199127sec
+Infeasible for round 141
+Permutation for 142 rounds
+After optimized
+0.00199318sec
+Infeasible for round 142
+Permutation for 143 rounds
+After optimized
+0.00199127sec
+Infeasible for round 143
+Permutation for 144 rounds
+After optimized
+0.00199127sec
+Infeasible for round 144
+Permutation for 145 rounds
+After optimized
+0.00199699sec
+Infeasible for round 145
+Permutation for 146 rounds
+After optimized
+0.00199318sec
+Infeasible for round 146
+Permutation for 147 rounds
+After optimized
+0.00199127sec
+Infeasible for round 147
+Permutation for 148 rounds
+After optimized
+0.00498009sec
+Infeasible for round 148
+Permutation for 149 rounds
+After optimized
+0.00198936sec
+Infeasible for round 149
+Permutation for 150 rounds
+After optimized
+0.00199127sec
+Infeasible for round 150
+Permutation for 151 rounds
+After optimized
+0.00199127sec
+Infeasible for round 151
+Permutation for 152 rounds
+After optimized
+0.00298691sec
+Infeasible for round 152
+Permutation for 153 rounds
+After optimized
+0.00198936sec
+Infeasible for round 153
+Permutation for 154 rounds
+After optimized
+0.00199509sec
+Infeasible for round 154
+Permutation for 155 rounds
+After optimized
+0.00198936sec
+Infeasible for round 155
+Permutation for 156 rounds
+After optimized
+0.00298691sec
+Infeasible for round 156
+Permutation for 157 rounds
+After optimized
+0.00398445sec
+Infeasible for round 157
+Permutation for 158 rounds
+After optimized
+0.00299072sec
+Infeasible for round 158
+Permutation for 159 rounds
+After optimized
+0.00199127sec
+Infeasible for round 159
+Permutation for 160 rounds
+After optimized
+0.00298882sec
+Infeasible for round 160
+Permutation for 161 rounds
+After optimized
+0.00199127sec
+Infeasible for round 161
+Permutation for 162 rounds
+After optimized
+0.00298882sec
+Infeasible for round 162
+Permutation for 163 rounds
+After optimized
+0.00298691sec
+Infeasible for round 163
+Permutation for 164 rounds
+After optimized
+0.00199127sec
+Infeasible for round 164
+Permutation for 165 rounds
+After optimized
+0.00298691sec
+Infeasible for round 165
+Permutation for 166 rounds
+After optimized
+0.00298882sec
+Infeasible for round 166
+Permutation for 167 rounds
+After optimized
+0.00298691sec
+Infeasible for round 167
+Permutation for 168 rounds
+After optimized
+0.00199127sec
+Infeasible for round 168
+Permutation for 169 rounds
+After optimized
+0.00199127sec
+Infeasible for round 169
+Permutation for 170 rounds
+After optimized
+0.00198936sec
+Infeasible for round 170
+Permutation for 171 rounds
+After optimized
+0.00199127sec
+Infeasible for round 171
+Permutation for 172 rounds
+After optimized
+0.00198936sec
+Infeasible for round 172
+Permutation for 173 rounds
+After optimized
+0.00298309sec
+Infeasible for round 173
+Permutation for 174 rounds
+After optimized
+0.00199127sec
+Infeasible for round 174
+Permutation for 175 rounds
+After optimized
+0.00199127sec
+Infeasible for round 175
+Permutation for 176 rounds
+After optimized
+0.00199127sec
+Infeasible for round 176
+Permutation for 177 rounds
+After optimized
+0.00198936sec
+Infeasible for round 177
+Permutation for 178 rounds
+After optimized
+0.002985sec
+Infeasible for round 178
+Permutation for 179 rounds
+After optimized
+0.002985sec
+Infeasible for round 179
+Permutation for 180 rounds
+After optimized
+0.002985sec
+Infeasible for round 180
+Permutation for 181 rounds
+After optimized
+0.00298882sec
+Infeasible for round 181
+Permutation for 182 rounds
+After optimized
+0.00298691sec
+Infeasible for round 182
+Permutation for 183 rounds
+After optimized
+0.00199127sec
+Infeasible for round 183
+Permutation for 184 rounds
+After optimized
+0.00298691sec
+Infeasible for round 184
+Permutation for 185 rounds
+After optimized
+0.00199127sec
+Infeasible for round 185
+Permutation for 186 rounds
+After optimized
+0.00198936sec
+Infeasible for round 186
+Permutation for 187 rounds
+After optimized
+0.00198936sec
+Infeasible for round 187
+Permutation for 188 rounds
+After optimized
+0.00199127sec
+Infeasible for round 188
+Permutation for 189 rounds
+After optimized
+0.00199127sec
+Infeasible for round 189
+Permutation for 190 rounds
+After optimized
+0.00298882sec
+Infeasible for round 190
+Permutation for 191 rounds
+After optimized
+0.00199318sec
+Infeasible for round 191
+Permutation for 192 rounds
+After optimized
+0.00298882sec
+Infeasible for round 192
+Permutation for 193 rounds
+After optimized
+0.00398254sec
+Infeasible for round 193
+Permutation for 194 rounds
+After optimized
+0.00298691sec
+Infeasible for round 194
+Permutation for 195 rounds
+After optimized
+0.00199127sec
+Infeasible for round 195
+Permutation for 196 rounds
+After optimized
+0.00199127sec
+Infeasible for round 196
+Permutation for 197 rounds
+After optimized
+0.00398064sec
+Infeasible for round 197
+Permutation for 198 rounds
+After optimized
+0.00298691sec
+Infeasible for round 198
+Permutation for 199 rounds
+After optimized
+0.00398445sec
+Infeasible for round 199
+Permutation for 200 rounds
+After optimized
+0.002985sec
+Infeasible for round 200
+Permutation for 201 rounds
+After optimized
+0.00298691sec
+Infeasible for round 201
+Permutation for 202 rounds
+After optimized
+0.00298691sec
+Infeasible for round 202
+Permutation for 203 rounds
+After optimized
+0.00398445sec
+Infeasible for round 203
+Permutation for 204 rounds
+After optimized
+0.00298882sec
+Infeasible for round 204
+Permutation for 205 rounds
+After optimized
+0.00398445sec
+Infeasible for round 205
+Permutation for 206 rounds
+After optimized
+0.00397873sec
+Infeasible for round 206
+Permutation for 207 rounds
+After optimized
+0.00298691sec
+Infeasible for round 207
+Permutation for 208 rounds
+After optimized
+0.00298691sec
+Infeasible for round 208
+Permutation for 209 rounds
+After optimized
+0.00298691sec
+Infeasible for round 209
+Permutation for 210 rounds
+After optimized
+0.00398254sec
+Infeasible for round 210
+Permutation for 211 rounds
+After optimized
+0.00198936sec
+Infeasible for round 211
+Permutation for 212 rounds
+After optimized
+0.00298309sec
+Infeasible for round 212
+Permutation for 213 rounds
+After optimized
+0.00298691sec
+Infeasible for round 213
+Permutation for 214 rounds
+After optimized
+0.00398064sec
+Infeasible for round 214
+Permutation for 215 rounds
+After optimized
+0.00298691sec
+Infeasible for round 215
+Permutation for 216 rounds
+After optimized
+0.00397873sec
+Infeasible for round 216
+Permutation for 217 rounds
+After optimized
+0.00398445sec
+Infeasible for round 217
+Permutation for 218 rounds
+After optimized
+0.002985sec
+Infeasible for round 218
+Permutation for 219 rounds
+After optimized
+0.00298882sec
+Infeasible for round 219
+Permutation for 220 rounds
+After optimized
+0.00298691sec
+Infeasible for round 220
+Permutation for 221 rounds
+After optimized
+0.00398064sec
+Infeasible for round 221
+Permutation for 222 rounds
+After optimized
+0.00298691sec
+Infeasible for round 222
+Permutation for 223 rounds
+After optimized
+0.00298691sec
+Infeasible for round 223
+Permutation for 224 rounds
+After optimized
+0.00397682sec
+Infeasible for round 224
+Permutation for 225 rounds
+After optimized
+0.00398064sec
+Infeasible for round 225
+Permutation for 226 rounds
+After optimized
+0.00298691sec
+Infeasible for round 226
+Permutation for 227 rounds
+After optimized
+0.00398254sec
+Infeasible for round 227
+Permutation for 228 rounds
+After optimized
+0.00398636sec
+Infeasible for round 228
+Permutation for 229 rounds
+After optimized
+0.00298691sec
+Infeasible for round 229
+Permutation for 230 rounds
+After optimized
+0.002985sec
+Infeasible for round 230
+Permutation for 231 rounds
+After optimized
+0.002985sec
+Infeasible for round 231
+Permutation for 232 rounds
+After optimized
+0.00398445sec
+Infeasible for round 232
+Permutation for 233 rounds
+After optimized
+0.00199318sec
+Infeasible for round 233
+Permutation for 234 rounds
+After optimized
+0.00298691sec
+Infeasible for round 234
+Permutation for 235 rounds
+After optimized
+0.00397682sec
+Infeasible for round 235
+Permutation for 236 rounds
+After optimized
+0.00398254sec
+Infeasible for round 236
+Permutation for 237 rounds
+After optimized
+0.00298691sec
+Infeasible for round 237
+Permutation for 238 rounds
+After optimized
+0.00398064sec
+Infeasible for round 238
+Permutation for 239 rounds
+After optimized
+0.00298691sec
+Infeasible for round 239
+Permutation for 240 rounds
+After optimized
+0.00298691sec
+Infeasible for round 240
+Permutation for 241 rounds
+After optimized
+0.00298691sec
+Infeasible for round 241
+Permutation for 242 rounds
+After optimized
+0.00498009sec
+Infeasible for round 242
+Permutation for 243 rounds
+After optimized
+0.002985sec
+Infeasible for round 243
+Permutation for 244 rounds
+After optimized
+0.00398064sec
+Infeasible for round 244
+Permutation for 245 rounds
+After optimized
+0.00498009sec
+Infeasible for round 245
+Permutation for 246 rounds
+After optimized
+0.00398254sec
+Infeasible for round 246
+Permutation for 247 rounds
+After optimized
+0.00497627sec
+Infeasible for round 247
+Permutation for 248 rounds
+After optimized
+0.00398254sec
+Infeasible for round 248
+Permutation for 249 rounds
+After optimized
+0.00497818sec
+Infeasible for round 249
+Permutation for 250 rounds
+After optimized
+0.00398064sec
+Infeasible for round 250
+Permutation for 251 rounds
+After optimized
+0.00398254sec
+Infeasible for round 251
+Permutation for 252 rounds
+After optimized
+0.00398254sec
+Infeasible for round 252
+Permutation for 253 rounds
+After optimized
+0.00298691sec
+Infeasible for round 253
+Permutation for 254 rounds
+After optimized
+0.00398254sec
+Infeasible for round 254
+Permutation for 255 rounds
+After optimized
+0.00398254sec
+Infeasible for round 255
+Permutation for 256 rounds
+After optimized
+0.00398636sec
+Infeasible for round 256
+Permutation for 257 rounds
+After optimized
+0.00398445sec
+Infeasible for round 257
+Permutation for 258 rounds
+After optimized
+0.00497818sec
+Infeasible for round 258
+Permutation for 259 rounds
+After optimized
+0.00398064sec
+Infeasible for round 259
+Permutation for 260 rounds
+After optimized
+0.00398254sec
+Infeasible for round 260
+Permutation for 261 rounds
+After optimized
+0.00398445sec
+Infeasible for round 261
+Permutation for 262 rounds
+After optimized
+0.00398445sec
+Infeasible for round 262
+Permutation for 263 rounds
+After optimized
+0.00398064sec
+Infeasible for round 263
+Permutation for 264 rounds
+After optimized
+0.00397682sec
+Infeasible for round 264
+Permutation for 265 rounds
+After optimized
+0.00398445sec
+Infeasible for round 265
+Permutation for 266 rounds
+After optimized
+0.00398254sec
+Infeasible for round 266
+Permutation for 267 rounds
+After optimized
+0.00497627sec
+Infeasible for round 267
+Permutation for 268 rounds
+After optimized
+0.00398445sec
+Infeasible for round 268
+Permutation for 269 rounds
+After optimized
+0.00398254sec
+Infeasible for round 269
+Permutation for 270 rounds
+After optimized
+0.00398254sec
+Infeasible for round 270
+Permutation for 271 rounds
+After optimized
+0.00498009sec
+Infeasible for round 271
+Permutation for 272 rounds
+After optimized
+0.00398254sec
+Infeasible for round 272
+Permutation for 273 rounds
+After optimized
+0.00398064sec
+Infeasible for round 273
+Permutation for 274 rounds
+After optimized
+0.00398254sec
+Infeasible for round 274
+Permutation for 275 rounds
+After optimized
+0.0119476sec
+Infeasible for round 275
+Permutation for 276 rounds
+After optimized
+0.010952sec
+Infeasible for round 276
+Permutation for 277 rounds
+After optimized
+0.0129433sec
+Infeasible for round 277
+Permutation for 278 rounds
+After optimized
+0.0139427sec
+Infeasible for round 278
+Permutation for 279 rounds
+After optimized
+0.0129414sec
+Infeasible for round 279
+Permutation for 280 rounds
+After optimized
+0.0119534sec
+Infeasible for round 280
+Permutation for 281 rounds
+After optimized
+0.0139408sec
+Infeasible for round 281
+Permutation for 282 rounds
+After optimized
+0.0149326sec
+Infeasible for round 282
+Permutation for 283 rounds
+After optimized
+0.0129414sec
+Infeasible for round 283
+Permutation for 284 rounds
+After optimized
+0.0328541sec
+Infeasible for round 284
+Permutation for 285 rounds
+After optimized
+0.0139389sec
+Infeasible for round 285
+Permutation for 286 rounds
+After optimized
+0.0129433sec
+Infeasible for round 286
+Permutation for 287 rounds
+After optimized
+0.0129433sec
+Infeasible for round 287
+Permutation for 288 rounds
+After optimized
+0.0298691sec
+Infeasible for round 288
+Permutation for 289 rounds
+After optimized
+0.0119476sec
+Infeasible for round 289
+Permutation for 290 rounds
+After optimized
+0.0129433sec
+Infeasible for round 290
+Permutation for 291 rounds
+After optimized
+0.013937sec
+Infeasible for round 291
+Permutation for 292 rounds
+After optimized
+0.0129433sec
+Infeasible for round 292
+Permutation for 293 rounds
+After optimized
+0.0129414sec
+Infeasible for round 293
+Permutation for 294 rounds
+After optimized
+0.0129414sec
+Infeasible for round 294
+Permutation for 295 rounds
+After optimized
+0.0139389sec
+Infeasible for round 295
+Permutation for 296 rounds
+After optimized
+0.0119476sec
+Infeasible for round 296
+Permutation for 297 rounds
+After optimized
+0.0149345sec
+Infeasible for round 297
+Permutation for 298 rounds
+After optimized
+0.0129433sec
+Infeasible for round 298
+Permutation for 299 rounds
+After optimized
+0.010952sec
+Infeasible for round 299
+Permutation for 300 rounds
+After optimized
+0.010952sec
+Infeasible for round 300
+Permutation for 301 rounds
+After optimized
+0.0139389sec
+Infeasible for round 301
+Permutation for 302 rounds
+After optimized
+0.0159302sec
+Infeasible for round 302
+Permutation for 303 rounds
+After optimized
+0.0378304sec
+Infeasible for round 303
+Permutation for 304 rounds
+After optimized
+0.0139408sec
+Infeasible for round 304
+Permutation for 305 rounds
+After optimized
+0.0149364sec
+Infeasible for round 305
+Permutation for 306 rounds
+After optimized
+0.013937sec
+Infeasible for round 306
+Permutation for 307 rounds
+After optimized
+0.0139389sec
+Infeasible for round 307
+Permutation for 308 rounds
+After optimized
+0.0149345sec
+Infeasible for round 308
+Permutation for 309 rounds
+After optimized
+0.0149441sec
+Infeasible for round 309
+Permutation for 310 rounds
+After optimized
+0.0179214sec
+Infeasible for round 310
+Permutation for 311 rounds
+After optimized
+0.0179214sec
+Infeasible for round 311
+Permutation for 312 rounds
+After optimized
+0.0149364sec
+Infeasible for round 312
+Permutation for 313 rounds
+After optimized
+0.013937sec
+Infeasible for round 313
+Permutation for 314 rounds
+After optimized
+0.0179195sec
+Infeasible for round 314
+Permutation for 315 rounds
+After optimized
+0.0159302sec
+Infeasible for round 315
+Permutation for 316 rounds
+After optimized
+0.0129452sec
+Infeasible for round 316
+Permutation for 317 rounds
+After optimized
+0.0169258sec
+Infeasible for round 317
+Permutation for 318 rounds
+After optimized
+0.0338497sec
+Infeasible for round 318
+Permutation for 319 rounds
+After optimized
+0.021904sec
+Infeasible for round 319
+Permutation for 320 rounds
+After optimized
+0.0278778sec
+Infeasible for round 320
+Permutation for 321 rounds
+After optimized
+0.0238934sec
+Infeasible for round 321
+Permutation for 322 rounds
+After optimized
+0.0278778sec
+Infeasible for round 322
+Permutation for 323 rounds
+After optimized
+0.0258865sec
+Infeasible for round 323
+Permutation for 324 rounds
+After optimized
+0.0318584sec
+Infeasible for round 324
+Permutation for 325 rounds
+After optimized
+0.0368385sec
+Infeasible for round 325
+Permutation for 326 rounds
+After optimized
+0.0318623sec
+Infeasible for round 326
+Permutation for 327 rounds
+After optimized
+0.052763sec
+Infeasible for round 327
+Permutation for 328 rounds
+After optimized
+0.0308647sec
+Infeasible for round 328
+Permutation for 329 rounds
+After optimized
+0.0268803sec
+Infeasible for round 329
+Permutation for 330 rounds
+After optimized
+0.0458012sec
+Infeasible for round 330
+Permutation for 331 rounds
+After optimized
+0.0418167sec
+Infeasible for round 331
+Permutation for 332 rounds
+After optimized
+0.0268764sec
+Infeasible for round 332
+Permutation for 333 rounds
+After optimized
+0.101553sec
+Infeasible for round 333
+Permutation for 334 rounds
+After optimized
+0.0896053sec
+Infeasible for round 334
+Permutation for 335 rounds
+After optimized
+0.126446sec
+Infeasible for round 335
+Permutation for 336 rounds
+After optimized
+0.112503sec
+Infeasible for round 336
+Permutation for 337 rounds
+After optimized
+0.135401sec
+Infeasible for round 337
+Permutation for 338 rounds
+After optimized
+0.110516sec
+Infeasible for round 338
+Permutation for 339 rounds
+After optimized
+0.118479sec
+Infeasible for round 339
+Permutation for 340 rounds
+After optimized
+0.123457sec
+Infeasible for round 340
+Permutation for 341 rounds
+After optimized
+0.131422sec
+Infeasible for round 341
+Permutation for 342 rounds
+After optimized
+0.150339sec
+Infeasible for round 342
+Permutation for 343 rounds
+After optimized
+0.153326sec
+Infeasible for round 343
+Permutation for 344 rounds
+After optimized
+0.134409sec
+Infeasible for round 344
+Permutation for 345 rounds
+After optimized
+0.129435sec
+Infeasible for round 345
+Permutation for 346 rounds
+After optimized
+0.155315sec
+Infeasible for round 346
+Permutation for 347 rounds
+After optimized
+0.157307sec
+Infeasible for round 347
+Permutation for 348 rounds
+After optimized
+0.127439sec
+Infeasible for round 348
+Permutation for 349 rounds
+After optimized
+0.137396sec
+Infeasible for round 349
+Permutation for 350 rounds
+After optimized
+0.134407sec
+Infeasible for round 350
+Permutation for 351 rounds
+After optimized
+0.156309sec
+Infeasible for round 351
+Permutation for 352 rounds
+After optimized
+0.132416sec
+Infeasible for round 352
+Permutation for 353 rounds
+After optimized
+0.169254sec
+Infeasible for round 353
+Permutation for 354 rounds
+After optimized
+0.135405sec
+Infeasible for round 354
+Permutation for 355 rounds
+After optimized
+0.163286sec
+Infeasible for round 355
+Permutation for 356 rounds
+After optimized
+0.201113sec
+Infeasible for round 356
+Permutation for 357 rounds
+After optimized
+0.203104sec
+Infeasible for round 357
+Permutation for 358 rounds
+After optimized
+0.160297sec
+Infeasible for round 358
+Permutation for 359 rounds
+After optimized
+0.141378sec
+Infeasible for round 359
+Permutation for 360 rounds
+After optimized
+0.201115sec
+Infeasible for round 360
+Permutation for 361 rounds
+After optimized
+0.201115sec
+Infeasible for round 361
+Permutation for 362 rounds
+After optimized
+0.228991sec
+Infeasible for round 362
+Permutation for 363 rounds
+After optimized
+0.209078sec
+Infeasible for round 363
+Permutation for 364 rounds
+After optimized
+0.227997sec
+Infeasible for round 364
+Permutation for 365 rounds
+After optimized
+0.182196sec
+Infeasible for round 365
+Permutation for 366 rounds
+After optimized
+0.254879sec
+Infeasible for round 366
+Permutation for 367 rounds
+After optimized
+0.216047sec
+Infeasible for round 367
+Permutation for 368 rounds
+After optimized
+0.20808sec
+Infeasible for round 368
+Permutation for 369 rounds
+After optimized
+0.236969sec
+Infeasible for round 369
+Permutation for 370 rounds
+After optimized
+0.222019sec
+Infeasible for round 370
+Permutation for 371 rounds
+After optimized
+0.233971sec
+Infeasible for round 371
+Permutation for 372 rounds
+After optimized
+0.263838sec
+Infeasible for round 372
+Permutation for 373 rounds
+After optimized
+0.27877sec
+Infeasible for round 373
+Permutation for 374 rounds
+After optimized
+0.272799sec
+Infeasible for round 374
+Permutation for 375 rounds
+After optimized
+0.237947sec
+Infeasible for round 375
+Permutation for 376 rounds
+After optimized
+0 | 5068	
+0 | 612	k87 
+0 | 612	k72 
+0 | 96	k65 
+0 | 516	k50 
+0 | 2534	k45 
+0 | 306	k45 k87 
+0 | 306	k45 k72 
+0 | 48	k45 k65 
+0 | 258	k45 k50 
+0 | 1396	k44 
+0 | 698	k44 k45 
+0 | 516	k35 
+0 | 258	k35 k45 
+0 | 516	k35 k44 
+0 | 258	k35 k44 k45 
+0 | 268	k28 
+0 | 134	k28 k45 
+0 | 268	k22 
+0 | 134	k22 k45 
+0 | 268	k22 k44 
+0 | 134	k22 k44 k45 
+0 | 4552	k14 
+0 | 612	k14 k87 
+0 | 612	k14 k72 
+0 | 96	k14 k65 
+0 | 516	k14 k50 
+0 | 2276	k14 k45 
+0 | 306	k14 k45 k87 
+0 | 306	k14 k45 k72 
+0 | 48	k14 k45 k65 
+0 | 258	k14 k45 k50 
+0 | 880	k14 k44 
+0 | 440	k14 k44 k45 
+0 | 268	k14 k28 
+0 | 134	k14 k28 k45 
+0 | 268	k14 k22 
+0 | 134	k14 k22 k45 
+0 | 268	k14 k22 k44 
+0 | 134	k14 k22 k44 k45 
+0 | 344	k13 
+0 | 172	k13 k45 
+0 | 344	k13 k14 
+0 | 172	k13 k14 k45 
+0 | 2534	k8 
+0 | 306	k8 k87 
+0 | 306	k8 k72 
+0 | 48	k8 k65 
+0 | 258	k8 k50 
+0 | 698	k8 k44 
+0 | 258	k8 k35 
+0 | 258	k8 k35 k44 
+0 | 134	k8 k28 
+0 | 134	k8 k22 
+0 | 134	k8 k22 k44 
+0 | 2276	k8 k14 
+0 | 306	k8 k14 k87 
+0 | 306	k8 k14 k72 
+0 | 48	k8 k14 k65 
+0 | 258	k8 k14 k50 
+0 | 440	k8 k14 k44 
+0 | 134	k8 k14 k28 
+0 | 134	k8 k14 k22 
+0 | 134	k8 k14 k22 k44 
+0 | 172	k8 k13 
+0 | 172	k8 k13 k14 
+0 | 268	k7 
+0 | 134	k7 k45 
+0 | 268	k7 k22 
+0 | 134	k7 k22 k45 
+0 | 268	k7 k14 
+0 | 134	k7 k14 k45 
+0 | 268	k7 k14 k22 
+0 | 134	k7 k14 k22 k45 
+0 | 134	k7 k8 
+0 | 134	k7 k8 k22 
+0 | 134	k7 k8 k14 
+0 | 134	k7 k8 k14 k22 
+0 | 612	k6 
+0 | 306	k6 k45 
+0 | 612	k6 k14 
+0 | 306	k6 k14 k45 
+0 | 306	k6 k8 
+0 | 306	k6 k8 k14 
+0 | 5068	k2 
+0 | 612	k2 k87 
+0 | 612	k2 k72 
+0 | 96	k2 k65 
+0 | 516	k2 k50 
+0 | 1396	k2 k44 
+0 | 516	k2 k35 
+0 | 516	k2 k35 k44 
+0 | 268	k2 k28 
+0 | 268	k2 k22 
+0 | 268	k2 k22 k44 
+0 | 4552	k2 k14 
+0 | 612	k2 k14 k87 
+0 | 612	k2 k14 k72 
+0 | 96	k2 k14 k65 
+0 | 516	k2 k14 k50 
+0 | 880	k2 k14 k44 
+0 | 268	k2 k14 k28 
+0 | 268	k2 k14 k22 
+0 | 268	k2 k14 k22 k44 
+0 | 344	k2 k13 
+0 | 344	k2 k13 k14 
+0 | 268	k2 k7 
+0 | 268	k2 k7 k22 
+0 | 268	k2 k7 k14 
+0 | 268	k2 k7 k14 k22 
+0 | 612	k2 k6 
+0 | 612	k2 k6 k14 
+0 | 3930	k1 
+0 | 182	k1 k87 
+0 | 516	k1 k72 
+0 | 86	k1 k50 
+0 | 698	k1 k45 
+0 | 1558	k1 k35 
+0 | 258	k1 k35 k72 
+0 | 258	k1 k35 k45 
+0 | 698	k1 k29 
+0 | 258	k1 k29 k35 
+0 | 172	k1 k28 
+0 | 86	k1 k28 k35 
+0 | 1062	k1 k22 
+0 | 134	k1 k22 k87 
+0 | 86	k1 k22 k50 
+0 | 134	k1 k22 k45 
+0 | 220	k1 k22 k35 
+0 | 134	k1 k22 k29 
+0 | 2372	k1 k14 
+0 | 182	k1 k14 k87 
+0 | 258	k1 k14 k72 
+0 | 86	k1 k14 k50 
+0 | 440	k1 k14 k45 
+0 | 440	k1 k14 k29 
+0 | 86	k1 k14 k28 
+0 | 842	k1 k14 k22 
+0 | 134	k1 k14 k22 k87 
+0 | 86	k1 k14 k22 k50 
+0 | 134	k1 k14 k22 k45 
+0 | 134	k1 k14 k22 k29 
+0 | 698	k1 k8 
+0 | 258	k1 k8 k35 
+0 | 134	k1 k8 k22 
+0 | 440	k1 k8 k14 
+0 | 134	k1 k8 k14 k22 
+0 | 172	k1 k7 
+0 | 86	k1 k7 k35 
+0 | 172	k1 k7 k22 
+0 | 86	k1 k7 k22 k35 
+0 | 86	k1 k7 k14 
+0 | 86	k1 k7 k14 k22 
+0 | 182	k1 k6 
+0 | 134	k1 k6 k22 
+0 | 182	k1 k6 k14 
+0 | 134	k1 k6 k14 k22 
+0 | 1396	k1 k2 
+0 | 516	k1 k2 k35 
+0 | 268	k1 k2 k22 
+0 | 880	k1 k2 k14 
+0 | 268	k1 k2 k14 k22 
+942.26sec
+FEASIBLE for round 376
+The upperBound of round 376 is 4
+*****************************
+Final solution
+162 solutions are found
+Odd
+Even
+0 | 5068	
+0 | 612	k87 
+0 | 612	k72 
+0 | 96	k65 
+0 | 516	k50 
+0 | 2534	k45 
+0 | 306	k45 k87 
+0 | 306	k45 k72 
+0 | 48	k45 k65 
+0 | 258	k45 k50 
+0 | 1396	k44 
+0 | 698	k44 k45 
+0 | 516	k35 
+0 | 258	k35 k45 
+0 | 516	k35 k44 
+0 | 258	k35 k44 k45 
+0 | 268	k28 
+0 | 134	k28 k45 
+0 | 268	k22 
+0 | 134	k22 k45 
+0 | 268	k22 k44 
+0 | 134	k22 k44 k45 
+0 | 4552	k14 
+0 | 612	k14 k87 
+0 | 612	k14 k72 
+0 | 96	k14 k65 
+0 | 516	k14 k50 
+0 | 2276	k14 k45 
+0 | 306	k14 k45 k87 
+0 | 306	k14 k45 k72 
+0 | 48	k14 k45 k65 
+0 | 258	k14 k45 k50 
+0 | 880	k14 k44 
+0 | 440	k14 k44 k45 
+0 | 268	k14 k28 
+0 | 134	k14 k28 k45 
+0 | 268	k14 k22 
+0 | 134	k14 k22 k45 
+0 | 268	k14 k22 k44 
+0 | 134	k14 k22 k44 k45 
+0 | 344	k13 
+0 | 172	k13 k45 
+0 | 344	k13 k14 
+0 | 172	k13 k14 k45 
+0 | 2534	k8 
+0 | 306	k8 k87 
+0 | 306	k8 k72 
+0 | 48	k8 k65 
+0 | 258	k8 k50 
+0 | 698	k8 k44 
+0 | 258	k8 k35 
+0 | 258	k8 k35 k44 
+0 | 134	k8 k28 
+0 | 134	k8 k22 
+0 | 134	k8 k22 k44 
+0 | 2276	k8 k14 
+0 | 306	k8 k14 k87 
+0 | 306	k8 k14 k72 
+0 | 48	k8 k14 k65 
+0 | 258	k8 k14 k50 
+0 | 440	k8 k14 k44 
+0 | 134	k8 k14 k28 
+0 | 134	k8 k14 k22 
+0 | 134	k8 k14 k22 k44 
+0 | 172	k8 k13 
+0 | 172	k8 k13 k14 
+0 | 268	k7 
+0 | 134	k7 k45 
+0 | 268	k7 k22 
+0 | 134	k7 k22 k45 
+0 | 268	k7 k14 
+0 | 134	k7 k14 k45 
+0 | 268	k7 k14 k22 
+0 | 134	k7 k14 k22 k45 
+0 | 134	k7 k8 
+0 | 134	k7 k8 k22 
+0 | 134	k7 k8 k14 
+0 | 134	k7 k8 k14 k22 
+0 | 612	k6 
+0 | 306	k6 k45 
+0 | 612	k6 k14 
+0 | 306	k6 k14 k45 
+0 | 306	k6 k8 
+0 | 306	k6 k8 k14 
+0 | 5068	k2 
+0 | 612	k2 k87 
+0 | 612	k2 k72 
+0 | 96	k2 k65 
+0 | 516	k2 k50 
+0 | 1396	k2 k44 
+0 | 516	k2 k35 
+0 | 516	k2 k35 k44 
+0 | 268	k2 k28 
+0 | 268	k2 k22 
+0 | 268	k2 k22 k44 
+0 | 4552	k2 k14 
+0 | 612	k2 k14 k87 
+0 | 612	k2 k14 k72 
+0 | 96	k2 k14 k65 
+0 | 516	k2 k14 k50 
+0 | 880	k2 k14 k44 
+0 | 268	k2 k14 k28 
+0 | 268	k2 k14 k22 
+0 | 268	k2 k14 k22 k44 
+0 | 344	k2 k13 
+0 | 344	k2 k13 k14 
+0 | 268	k2 k7 
+0 | 268	k2 k7 k22 
+0 | 268	k2 k7 k14 
+0 | 268	k2 k7 k14 k22 
+0 | 612	k2 k6 
+0 | 612	k2 k6 k14 
+0 | 3930	k1 
+0 | 182	k1 k87 
+0 | 516	k1 k72 
+0 | 86	k1 k50 
+0 | 698	k1 k45 
+0 | 1558	k1 k35 
+0 | 258	k1 k35 k72 
+0 | 258	k1 k35 k45 
+0 | 698	k1 k29 
+0 | 258	k1 k29 k35 
+0 | 172	k1 k28 
+0 | 86	k1 k28 k35 
+0 | 1062	k1 k22 
+0 | 134	k1 k22 k87 
+0 | 86	k1 k22 k50 
+0 | 134	k1 k22 k45 
+0 | 220	k1 k22 k35 
+0 | 134	k1 k22 k29 
+0 | 2372	k1 k14 
+0 | 182	k1 k14 k87 
+0 | 258	k1 k14 k72 
+0 | 86	k1 k14 k50 
+0 | 440	k1 k14 k45 
+0 | 440	k1 k14 k29 
+0 | 86	k1 k14 k28 
+0 | 842	k1 k14 k22 
+0 | 134	k1 k14 k22 k87 
+0 | 86	k1 k14 k22 k50 
+0 | 134	k1 k14 k22 k45 
+0 | 134	k1 k14 k22 k29 
+0 | 698	k1 k8 
+0 | 258	k1 k8 k35 
+0 | 134	k1 k8 k22 
+0 | 440	k1 k8 k14 
+0 | 134	k1 k8 k14 k22 
+0 | 172	k1 k7 
+0 | 86	k1 k7 k35 
+0 | 172	k1 k7 k22 
+0 | 86	k1 k7 k22 k35 
+0 | 86	k1 k7 k14 
+0 | 86	k1 k7 k14 k22 
+0 | 182	k1 k6 
+0 | 134	k1 k6 k22 
+0 | 182	k1 k6 k14 
+0 | 134	k1 k6 k14 k22 
+0 | 1396	k1 k2 
+0 | 516	k1 k2 k35 
+0 | 268	k1 k2 k22 
+0 | 880	k1 k2 k14 
+0 | 268	k1 k2 k14 k22 
+Permutation for 377 rounds

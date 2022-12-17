@@ -1,0 +1,1877 @@
+excluding Cube index is: 15
+Permutation for 1 rounds
+After optimized
+0.00199127sec
+Infeasible for round 1
+excluding Cube index is: 15
+Permutation for 2 rounds
+After optimized
+0.000997543sec
+Infeasible for round 2
+excluding Cube index is: 15
+Permutation for 3 rounds
+After optimized
+0.00199127sec
+Infeasible for round 3
+excluding Cube index is: 15
+Permutation for 4 rounds
+After optimized
+0.00199127sec
+Infeasible for round 4
+excluding Cube index is: 15
+Permutation for 5 rounds
+After optimized
+0.00199127sec
+Infeasible for round 5
+excluding Cube index is: 15
+Permutation for 6 rounds
+After optimized
+0.000995636sec
+Infeasible for round 6
+excluding Cube index is: 15
+Permutation for 7 rounds
+After optimized
+0.000995636sec
+Infeasible for round 7
+excluding Cube index is: 15
+Permutation for 8 rounds
+After optimized
+0.000995636sec
+Infeasible for round 8
+excluding Cube index is: 15
+Permutation for 9 rounds
+After optimized
+0.000995636sec
+Infeasible for round 9
+excluding Cube index is: 15
+Permutation for 10 rounds
+After optimized
+0.00199127sec
+Infeasible for round 10
+excluding Cube index is: 15
+Permutation for 11 rounds
+After optimized
+0.00199127sec
+Infeasible for round 11
+excluding Cube index is: 15
+Permutation for 12 rounds
+After optimized
+0.00198936sec
+Infeasible for round 12
+excluding Cube index is: 15
+Permutation for 13 rounds
+After optimized
+0.00896072sec
+Infeasible for round 13
+excluding Cube index is: 15
+Permutation for 14 rounds
+After optimized
+0.00199127sec
+Infeasible for round 14
+excluding Cube index is: 15
+Permutation for 15 rounds
+After optimized
+0.00199127sec
+Infeasible for round 15
+excluding Cube index is: 15
+Permutation for 16 rounds
+After optimized
+0.00198746sec
+Infeasible for round 16
+excluding Cube index is: 15
+Permutation for 17 rounds
+After optimized
+0.00199127sec
+Infeasible for round 17
+excluding Cube index is: 15
+Permutation for 18 rounds
+After optimized
+0.00199127sec
+Infeasible for round 18
+excluding Cube index is: 15
+Permutation for 19 rounds
+After optimized
+0.00199127sec
+Infeasible for round 19
+excluding Cube index is: 15
+Permutation for 20 rounds
+After optimized
+0.00199509sec
+Infeasible for round 20
+excluding Cube index is: 15
+Permutation for 21 rounds
+After optimized
+0.00199127sec
+Infeasible for round 21
+excluding Cube index is: 15
+Permutation for 22 rounds
+After optimized
+0.00199318sec
+Infeasible for round 22
+excluding Cube index is: 15
+Permutation for 23 rounds
+After optimized
+0.00199127sec
+Infeasible for round 23
+excluding Cube index is: 15
+Permutation for 24 rounds
+After optimized
+0.00199318sec
+Infeasible for round 24
+excluding Cube index is: 15
+Permutation for 25 rounds
+After optimized
+0.00199127sec
+Infeasible for round 25
+excluding Cube index is: 15
+Permutation for 26 rounds
+After optimized
+0.00198936sec
+Infeasible for round 26
+excluding Cube index is: 15
+Permutation for 27 rounds
+After optimized
+0.000995636sec
+Infeasible for round 27
+excluding Cube index is: 15
+Permutation for 28 rounds
+After optimized
+0.00199318sec
+Infeasible for round 28
+excluding Cube index is: 15
+Permutation for 29 rounds
+After optimized
+0.00199318sec
+Infeasible for round 29
+excluding Cube index is: 15
+Permutation for 30 rounds
+After optimized
+0.00198936sec
+Infeasible for round 30
+excluding Cube index is: 15
+Permutation for 31 rounds
+After optimized
+0.00199318sec
+Infeasible for round 31
+excluding Cube index is: 15
+Permutation for 32 rounds
+After optimized
+0.00199127sec
+Infeasible for round 32
+excluding Cube index is: 15
+Permutation for 33 rounds
+After optimized
+0.00199127sec
+Infeasible for round 33
+excluding Cube index is: 15
+Permutation for 34 rounds
+After optimized
+0.00199127sec
+Infeasible for round 34
+excluding Cube index is: 15
+Permutation for 35 rounds
+After optimized
+0.00199127sec
+Infeasible for round 35
+excluding Cube index is: 15
+Permutation for 36 rounds
+After optimized
+0.00199509sec
+Infeasible for round 36
+excluding Cube index is: 15
+Permutation for 37 rounds
+After optimized
+0.002985sec
+Infeasible for round 37
+excluding Cube index is: 15
+Permutation for 38 rounds
+After optimized
+0.00199127sec
+Infeasible for round 38
+excluding Cube index is: 15
+Permutation for 39 rounds
+After optimized
+0.00198936sec
+Infeasible for round 39
+excluding Cube index is: 15
+Permutation for 40 rounds
+After optimized
+0.00298691sec
+Infeasible for round 40
+excluding Cube index is: 15
+Permutation for 41 rounds
+After optimized
+0.00199318sec
+Infeasible for round 41
+excluding Cube index is: 15
+Permutation for 42 rounds
+After optimized
+0.002985sec
+Infeasible for round 42
+excluding Cube index is: 15
+Permutation for 43 rounds
+After optimized
+0.00199318sec
+Infeasible for round 43
+excluding Cube index is: 15
+Permutation for 44 rounds
+After optimized
+0.00199127sec
+Infeasible for round 44
+excluding Cube index is: 15
+Permutation for 45 rounds
+After optimized
+0.00199127sec
+Infeasible for round 45
+excluding Cube index is: 15
+Permutation for 46 rounds
+After optimized
+0.002985sec
+Infeasible for round 46
+excluding Cube index is: 15
+Permutation for 47 rounds
+After optimized
+0.00298882sec
+Infeasible for round 47
+excluding Cube index is: 15
+Permutation for 48 rounds
+After optimized
+0.00199127sec
+Infeasible for round 48
+excluding Cube index is: 15
+Permutation for 49 rounds
+After optimized
+0.00298309sec
+Infeasible for round 49
+excluding Cube index is: 15
+Permutation for 50 rounds
+After optimized
+0.00298882sec
+Infeasible for round 50
+excluding Cube index is: 15
+Permutation for 51 rounds
+After optimized
+0.00298691sec
+Infeasible for round 51
+excluding Cube index is: 15
+Permutation for 52 rounds
+After optimized
+0.00298691sec
+Infeasible for round 52
+excluding Cube index is: 15
+Permutation for 53 rounds
+After optimized
+0.00398064sec
+Infeasible for round 53
+excluding Cube index is: 15
+Permutation for 54 rounds
+After optimized
+0.00199127sec
+Infeasible for round 54
+excluding Cube index is: 15
+Permutation for 55 rounds
+After optimized
+0.00398064sec
+Infeasible for round 55
+excluding Cube index is: 15
+Permutation for 56 rounds
+After optimized
+0.00298691sec
+Infeasible for round 56
+excluding Cube index is: 15
+Permutation for 57 rounds
+After optimized
+0.00298691sec
+Infeasible for round 57
+excluding Cube index is: 15
+Permutation for 58 rounds
+After optimized
+0.00298691sec
+Infeasible for round 58
+excluding Cube index is: 15
+Permutation for 59 rounds
+After optimized
+0.0597363sec
+Infeasible for round 59
+excluding Cube index is: 15
+Permutation for 60 rounds
+After optimized
+0.00199127sec
+Infeasible for round 60
+excluding Cube index is: 15
+Permutation for 61 rounds
+After optimized
+0.00298691sec
+Infeasible for round 61
+excluding Cube index is: 15
+Permutation for 62 rounds
+After optimized
+0.00298691sec
+Infeasible for round 62
+excluding Cube index is: 15
+Permutation for 63 rounds
+After optimized
+0.00497818sec
+Infeasible for round 63
+excluding Cube index is: 15
+Permutation for 64 rounds
+After optimized
+0.00398254sec
+Infeasible for round 64
+excluding Cube index is: 15
+Permutation for 65 rounds
+After optimized
+0.00398254sec
+Infeasible for round 65
+excluding Cube index is: 15
+Permutation for 66 rounds
+After optimized
+0.00398254sec
+Infeasible for round 66
+excluding Cube index is: 15
+Permutation for 67 rounds
+After optimized
+0.00298691sec
+Infeasible for round 67
+excluding Cube index is: 15
+Permutation for 68 rounds
+After optimized
+0.00298691sec
+Infeasible for round 68
+excluding Cube index is: 15
+Permutation for 69 rounds
+After optimized
+0.00398254sec
+Infeasible for round 69
+excluding Cube index is: 15
+Permutation for 70 rounds
+After optimized
+0.00298882sec
+Infeasible for round 70
+excluding Cube index is: 15
+Permutation for 71 rounds
+After optimized
+0.00298691sec
+Infeasible for round 71
+excluding Cube index is: 15
+Permutation for 72 rounds
+After optimized
+0.00298882sec
+Infeasible for round 72
+excluding Cube index is: 15
+Permutation for 73 rounds
+After optimized
+0.00398064sec
+Infeasible for round 73
+excluding Cube index is: 15
+Permutation for 74 rounds
+After optimized
+0.00398254sec
+Infeasible for round 74
+excluding Cube index is: 15
+Permutation for 75 rounds
+After optimized
+0.002985sec
+Infeasible for round 75
+excluding Cube index is: 15
+Permutation for 76 rounds
+After optimized
+0.00398254sec
+Infeasible for round 76
+excluding Cube index is: 15
+Permutation for 77 rounds
+After optimized
+0.00398254sec
+Infeasible for round 77
+excluding Cube index is: 15
+Permutation for 78 rounds
+After optimized
+0.00398254sec
+Infeasible for round 78
+excluding Cube index is: 15
+Permutation for 79 rounds
+After optimized
+0.00398254sec
+Infeasible for round 79
+excluding Cube index is: 15
+Permutation for 80 rounds
+After optimized
+0.0318623sec
+Infeasible for round 80
+excluding Cube index is: 15
+Permutation for 81 rounds
+After optimized
+0.00398254sec
+Infeasible for round 81
+excluding Cube index is: 15
+Permutation for 82 rounds
+After optimized
+0.00298691sec
+Infeasible for round 82
+excluding Cube index is: 15
+Permutation for 83 rounds
+After optimized
+0.00398254sec
+Infeasible for round 83
+excluding Cube index is: 15
+Permutation for 84 rounds
+After optimized
+0.00497818sec
+Infeasible for round 84
+excluding Cube index is: 15
+Permutation for 85 rounds
+After optimized
+0.00696945sec
+Infeasible for round 85
+excluding Cube index is: 15
+Permutation for 86 rounds
+After optimized
+0.0647163sec
+Infeasible for round 86
+excluding Cube index is: 15
+Permutation for 87 rounds
+After optimized
+0.00398064sec
+Infeasible for round 87
+excluding Cube index is: 15
+Permutation for 88 rounds
+After optimized
+0.010952sec
+Infeasible for round 88
+excluding Cube index is: 15
+Permutation for 89 rounds
+After optimized
+0.00398254sec
+Infeasible for round 89
+excluding Cube index is: 15
+Permutation for 90 rounds
+After optimized
+0.00398254sec
+Infeasible for round 90
+excluding Cube index is: 15
+Permutation for 91 rounds
+After optimized
+0.00398254sec
+Infeasible for round 91
+excluding Cube index is: 15
+Permutation for 92 rounds
+After optimized
+0.0686989sec
+Infeasible for round 92
+excluding Cube index is: 15
+Permutation for 93 rounds
+After optimized
+0.00398064sec
+Infeasible for round 93
+excluding Cube index is: 15
+Permutation for 94 rounds
+After optimized
+0.00398254sec
+Infeasible for round 94
+excluding Cube index is: 15
+Permutation for 95 rounds
+After optimized
+0.00398254sec
+Infeasible for round 95
+excluding Cube index is: 15
+Permutation for 96 rounds
+After optimized
+0.0627232sec
+Infeasible for round 96
+excluding Cube index is: 15
+Permutation for 97 rounds
+After optimized
+0.00497818sec
+Infeasible for round 97
+excluding Cube index is: 15
+Permutation for 98 rounds
+After optimized
+0.00398254sec
+Infeasible for round 98
+excluding Cube index is: 15
+Permutation for 99 rounds
+After optimized
+0.00398254sec
+Infeasible for round 99
+excluding Cube index is: 15
+Permutation for 100 rounds
+After optimized
+0.00398064sec
+Infeasible for round 100
+excluding Cube index is: 15
+Permutation for 101 rounds
+After optimized
+0.00497818sec
+Infeasible for round 101
+excluding Cube index is: 15
+Permutation for 102 rounds
+After optimized
+0.00796318sec
+Infeasible for round 102
+excluding Cube index is: 15
+Permutation for 103 rounds
+After optimized
+0.00398254sec
+Infeasible for round 103
+excluding Cube index is: 15
+Permutation for 104 rounds
+After optimized
+0.00398254sec
+Infeasible for round 104
+excluding Cube index is: 15
+Permutation for 105 rounds
+After optimized
+0.00398254sec
+Infeasible for round 105
+excluding Cube index is: 15
+Permutation for 106 rounds
+After optimized
+0.00398254sec
+Infeasible for round 106
+excluding Cube index is: 15
+Permutation for 107 rounds
+After optimized
+0.0567513sec
+Infeasible for round 107
+excluding Cube index is: 15
+Permutation for 108 rounds
+After optimized
+0.00398254sec
+Infeasible for round 108
+excluding Cube index is: 15
+Permutation for 109 rounds
+After optimized
+0.00398254sec
+Infeasible for round 109
+excluding Cube index is: 15
+Permutation for 110 rounds
+After optimized
+0.00398064sec
+Infeasible for round 110
+excluding Cube index is: 15
+Permutation for 111 rounds
+After optimized
+0.00398254sec
+Infeasible for round 111
+excluding Cube index is: 15
+Permutation for 112 rounds
+After optimized
+0.0348473sec
+Infeasible for round 112
+excluding Cube index is: 15
+Permutation for 113 rounds
+After optimized
+0.00995636sec
+Infeasible for round 113
+excluding Cube index is: 15
+Permutation for 114 rounds
+After optimized
+0.00398254sec
+Infeasible for round 114
+excluding Cube index is: 15
+Permutation for 115 rounds
+After optimized
+0.00398254sec
+Infeasible for round 115
+excluding Cube index is: 15
+Permutation for 116 rounds
+After optimized
+0.00398254sec
+Infeasible for round 116
+excluding Cube index is: 15
+Permutation for 117 rounds
+After optimized
+0.00498009sec
+Infeasible for round 117
+excluding Cube index is: 15
+Permutation for 118 rounds
+After optimized
+0.00398064sec
+Infeasible for round 118
+excluding Cube index is: 15
+Permutation for 119 rounds
+After optimized
+0.00497818sec
+Infeasible for round 119
+excluding Cube index is: 15
+Permutation for 120 rounds
+After optimized
+0.00497627sec
+Infeasible for round 120
+excluding Cube index is: 15
+Permutation for 121 rounds
+After optimized
+0.00398445sec
+Infeasible for round 121
+excluding Cube index is: 15
+Permutation for 122 rounds
+After optimized
+0.00398445sec
+Infeasible for round 122
+excluding Cube index is: 15
+Permutation for 123 rounds
+After optimized
+0.00696945sec
+Infeasible for round 123
+excluding Cube index is: 15
+Permutation for 124 rounds
+After optimized
+0.00597572sec
+Infeasible for round 124
+excluding Cube index is: 15
+Permutation for 125 rounds
+After optimized
+0.00497818sec
+Infeasible for round 125
+excluding Cube index is: 15
+Permutation for 126 rounds
+After optimized
+0.00597572sec
+Infeasible for round 126
+excluding Cube index is: 15
+Permutation for 127 rounds
+After optimized
+0.00497818sec
+Infeasible for round 127
+excluding Cube index is: 15
+Permutation for 128 rounds
+After optimized
+0.00498009sec
+Infeasible for round 128
+excluding Cube index is: 15
+Permutation for 129 rounds
+After optimized
+0.00398445sec
+Infeasible for round 129
+excluding Cube index is: 15
+Permutation for 130 rounds
+After optimized
+0.00398445sec
+Infeasible for round 130
+excluding Cube index is: 15
+Permutation for 131 rounds
+After optimized
+0.00497818sec
+Infeasible for round 131
+excluding Cube index is: 15
+Permutation for 132 rounds
+After optimized
+0.0527668sec
+Infeasible for round 132
+excluding Cube index is: 15
+Permutation for 133 rounds
+After optimized
+0.00398445sec
+Infeasible for round 133
+excluding Cube index is: 15
+Permutation for 134 rounds
+After optimized
+0.00497818sec
+Infeasible for round 134
+excluding Cube index is: 15
+Permutation for 135 rounds
+After optimized
+0.00995636sec
+Infeasible for round 135
+excluding Cube index is: 15
+Permutation for 136 rounds
+After optimized
+0.00398254sec
+Infeasible for round 136
+excluding Cube index is: 15
+Permutation for 137 rounds
+After optimized
+0.00398254sec
+Infeasible for round 137
+excluding Cube index is: 15
+Permutation for 138 rounds
+After optimized
+0.00497627sec
+Infeasible for round 138
+excluding Cube index is: 15
+Permutation for 139 rounds
+After optimized
+0.00398254sec
+Infeasible for round 139
+excluding Cube index is: 15
+Permutation for 140 rounds
+After optimized
+0.00497627sec
+Infeasible for round 140
+excluding Cube index is: 15
+Permutation for 141 rounds
+After optimized
+0.00497818sec
+Infeasible for round 141
+excluding Cube index is: 15
+Permutation for 142 rounds
+After optimized
+0.0726776sec
+Infeasible for round 142
+excluding Cube index is: 15
+Permutation for 143 rounds
+After optimized
+0.00497627sec
+Infeasible for round 143
+excluding Cube index is: 15
+Permutation for 144 rounds
+After optimized
+0.00497437sec
+Infeasible for round 144
+excluding Cube index is: 15
+Permutation for 145 rounds
+After optimized
+0.00696945sec
+Infeasible for round 145
+excluding Cube index is: 15
+Permutation for 146 rounds
+After optimized
+0.00398254sec
+Infeasible for round 146
+excluding Cube index is: 15
+Permutation for 147 rounds
+After optimized
+0.00497818sec
+Infeasible for round 147
+excluding Cube index is: 15
+Permutation for 148 rounds
+After optimized
+0.00796318sec
+Infeasible for round 148
+excluding Cube index is: 15
+Permutation for 149 rounds
+After optimized
+0.0109501sec
+Infeasible for round 149
+excluding Cube index is: 15
+Permutation for 150 rounds
+After optimized
+0.00597382sec
+Infeasible for round 150
+excluding Cube index is: 15
+Permutation for 151 rounds
+After optimized
+0.00497627sec
+Infeasible for round 151
+excluding Cube index is: 15
+Permutation for 152 rounds
+After optimized
+0.0686989sec
+Infeasible for round 152
+excluding Cube index is: 15
+Permutation for 153 rounds
+After optimized
+0.00497818sec
+Infeasible for round 153
+excluding Cube index is: 15
+Permutation for 154 rounds
+After optimized
+0.00497627sec
+Infeasible for round 154
+excluding Cube index is: 15
+Permutation for 155 rounds
+After optimized
+0.00498009sec
+Infeasible for round 155
+excluding Cube index is: 15
+Permutation for 156 rounds
+After optimized
+0.00498009sec
+Infeasible for round 156
+excluding Cube index is: 15
+Permutation for 157 rounds
+After optimized
+0.00896072sec
+Infeasible for round 157
+excluding Cube index is: 15
+Permutation for 158 rounds
+After optimized
+0.00497818sec
+Infeasible for round 158
+excluding Cube index is: 15
+Permutation for 159 rounds
+After optimized
+0.105536sec
+Infeasible for round 159
+excluding Cube index is: 15
+Permutation for 160 rounds
+After optimized
+0.00696754sec
+Infeasible for round 160
+excluding Cube index is: 15
+Permutation for 161 rounds
+After optimized
+0.00696945sec
+Infeasible for round 161
+excluding Cube index is: 15
+Permutation for 162 rounds
+After optimized
+0.0826359sec
+Infeasible for round 162
+excluding Cube index is: 15
+Permutation for 163 rounds
+After optimized
+0.0846272sec
+Infeasible for round 163
+excluding Cube index is: 15
+Permutation for 164 rounds
+After optimized
+0.00497818sec
+Infeasible for round 164
+excluding Cube index is: 15
+Permutation for 165 rounds
+After optimized
+0.00497627sec
+Infeasible for round 165
+excluding Cube index is: 15
+Permutation for 166 rounds
+After optimized
+0.00497818sec
+Infeasible for round 166
+excluding Cube index is: 15
+Permutation for 167 rounds
+After optimized
+0.00597382sec
+Infeasible for round 167
+excluding Cube index is: 15
+Permutation for 168 rounds
+After optimized
+0.00597382sec
+Infeasible for round 168
+excluding Cube index is: 15
+Permutation for 169 rounds
+After optimized
+0.00497818sec
+Infeasible for round 169
+excluding Cube index is: 15
+Permutation for 170 rounds
+After optimized
+0.00497818sec
+Infeasible for round 170
+excluding Cube index is: 15
+Permutation for 171 rounds
+After optimized
+0.00696945sec
+Infeasible for round 171
+excluding Cube index is: 15
+Permutation for 172 rounds
+After optimized
+0.00597382sec
+Infeasible for round 172
+excluding Cube index is: 15
+Permutation for 173 rounds
+After optimized
+0.00497627sec
+Infeasible for round 173
+excluding Cube index is: 15
+Permutation for 174 rounds
+After optimized
+0.00497818sec
+Infeasible for round 174
+excluding Cube index is: 15
+Permutation for 175 rounds
+After optimized
+0.00497627sec
+Infeasible for round 175
+excluding Cube index is: 15
+Permutation for 176 rounds
+After optimized
+0.0876141sec
+Infeasible for round 176
+excluding Cube index is: 15
+Permutation for 177 rounds
+After optimized
+0.00597382sec
+Infeasible for round 177
+excluding Cube index is: 15
+Permutation for 178 rounds
+After optimized
+0.0776577sec
+Infeasible for round 178
+excluding Cube index is: 15
+Permutation for 179 rounds
+After optimized
+0.0776558sec
+Infeasible for round 179
+excluding Cube index is: 15
+Permutation for 180 rounds
+After optimized
+0.007967sec
+Infeasible for round 180
+excluding Cube index is: 15
+Permutation for 181 rounds
+After optimized
+0.00696945sec
+Infeasible for round 181
+excluding Cube index is: 15
+Permutation for 182 rounds
+After optimized
+0.00696754sec
+Infeasible for round 182
+excluding Cube index is: 15
+Permutation for 183 rounds
+After optimized
+0.00696945sec
+Infeasible for round 183
+excluding Cube index is: 15
+Permutation for 184 rounds
+After optimized
+0.00597382sec
+Infeasible for round 184
+excluding Cube index is: 15
+Permutation for 185 rounds
+After optimized
+0.00497818sec
+Infeasible for round 185
+excluding Cube index is: 15
+Permutation for 186 rounds
+After optimized
+0.00497818sec
+Infeasible for round 186
+excluding Cube index is: 15
+Permutation for 187 rounds
+After optimized
+0.00597382sec
+Infeasible for round 187
+excluding Cube index is: 15
+Permutation for 188 rounds
+After optimized
+0.00597382sec
+Infeasible for round 188
+excluding Cube index is: 15
+Permutation for 189 rounds
+After optimized
+0.00696945sec
+Infeasible for round 189
+excluding Cube index is: 15
+Permutation for 190 rounds
+After optimized
+0.00497627sec
+Infeasible for round 190
+excluding Cube index is: 15
+Permutation for 191 rounds
+After optimized
+0.00597382sec
+Infeasible for round 191
+excluding Cube index is: 15
+Permutation for 192 rounds
+After optimized
+0.00498009sec
+Infeasible for round 192
+excluding Cube index is: 15
+Permutation for 193 rounds
+After optimized
+0.00696945sec
+Infeasible for round 193
+excluding Cube index is: 15
+Permutation for 194 rounds
+After optimized
+0.00597572sec
+Infeasible for round 194
+excluding Cube index is: 15
+Permutation for 195 rounds
+After optimized
+0.00696945sec
+Infeasible for round 195
+excluding Cube index is: 15
+Permutation for 196 rounds
+After optimized
+0.00497818sec
+Infeasible for round 196
+excluding Cube index is: 15
+Permutation for 197 rounds
+After optimized
+0.00696945sec
+Infeasible for round 197
+excluding Cube index is: 15
+Permutation for 198 rounds
+After optimized
+0.00796509sec
+Infeasible for round 198
+excluding Cube index is: 15
+Permutation for 199 rounds
+After optimized
+0.00796509sec
+Infeasible for round 199
+excluding Cube index is: 15
+Permutation for 200 rounds
+After optimized
+0.00597382sec
+Infeasible for round 200
+excluding Cube index is: 15
+Permutation for 201 rounds
+After optimized
+0.0119476sec
+Infeasible for round 201
+excluding Cube index is: 15
+Permutation for 202 rounds
+After optimized
+0.0945816sec
+Infeasible for round 202
+excluding Cube index is: 15
+Permutation for 203 rounds
+After optimized
+0.00696945sec
+Infeasible for round 203
+excluding Cube index is: 15
+Permutation for 204 rounds
+After optimized
+0.00597572sec
+Infeasible for round 204
+excluding Cube index is: 15
+Permutation for 205 rounds
+After optimized
+0.101549sec
+Infeasible for round 205
+excluding Cube index is: 15
+Permutation for 206 rounds
+After optimized
+0.00597382sec
+Infeasible for round 206
+excluding Cube index is: 15
+Permutation for 207 rounds
+After optimized
+0.00696945sec
+Infeasible for round 207
+excluding Cube index is: 15
+Permutation for 208 rounds
+After optimized
+0.00597572sec
+Infeasible for round 208
+excluding Cube index is: 15
+Permutation for 209 rounds
+After optimized
+0.00597382sec
+Infeasible for round 209
+excluding Cube index is: 15
+Permutation for 210 rounds
+After optimized
+0.00796509sec
+Infeasible for round 210
+excluding Cube index is: 15
+Permutation for 211 rounds
+After optimized
+0.00597191sec
+Infeasible for round 211
+excluding Cube index is: 15
+Permutation for 212 rounds
+After optimized
+0.00597191sec
+Infeasible for round 212
+excluding Cube index is: 15
+Permutation for 213 rounds
+After optimized
+0.00597191sec
+Infeasible for round 213
+excluding Cube index is: 15
+Permutation for 214 rounds
+After optimized
+0.00597382sec
+Infeasible for round 214
+excluding Cube index is: 15
+Permutation for 215 rounds
+After optimized
+0.00696754sec
+Infeasible for round 215
+excluding Cube index is: 15
+Permutation for 216 rounds
+After optimized
+0.00597572sec
+Infeasible for round 216
+excluding Cube index is: 15
+Permutation for 217 rounds
+After optimized
+0.10454sec
+Infeasible for round 217
+excluding Cube index is: 15
+Permutation for 218 rounds
+After optimized
+0.00597191sec
+Infeasible for round 218
+excluding Cube index is: 15
+Permutation for 219 rounds
+After optimized
+0.00696945sec
+Infeasible for round 219
+excluding Cube index is: 15
+Permutation for 220 rounds
+After optimized
+0.00597191sec
+Infeasible for round 220
+excluding Cube index is: 15
+Permutation for 221 rounds
+After optimized
+0.007967sec
+Infeasible for round 221
+excluding Cube index is: 15
+Permutation for 222 rounds
+After optimized
+0.0965729sec
+Infeasible for round 222
+excluding Cube index is: 15
+Permutation for 223 rounds
+After optimized
+0.00796509sec
+Infeasible for round 223
+excluding Cube index is: 15
+Permutation for 224 rounds
+After optimized
+0.00796318sec
+Infeasible for round 224
+excluding Cube index is: 15
+Permutation for 225 rounds
+After optimized
+0.10454sec
+Infeasible for round 225
+excluding Cube index is: 15
+Permutation for 226 rounds
+After optimized
+0.013937sec
+Infeasible for round 226
+excluding Cube index is: 15
+Permutation for 227 rounds
+After optimized
+0.00796509sec
+Infeasible for round 227
+excluding Cube index is: 15
+Permutation for 228 rounds
+After optimized
+0.00696945sec
+Infeasible for round 228
+excluding Cube index is: 15
+Permutation for 229 rounds
+After optimized
+0.0975704sec
+Infeasible for round 229
+excluding Cube index is: 15
+Permutation for 230 rounds
+After optimized
+0.00597382sec
+Infeasible for round 230
+excluding Cube index is: 15
+Permutation for 231 rounds
+After optimized
+0.00597382sec
+Infeasible for round 231
+excluding Cube index is: 15
+Permutation for 232 rounds
+After optimized
+0.00696754sec
+Infeasible for round 232
+excluding Cube index is: 15
+Permutation for 233 rounds
+After optimized
+0.007967sec
+Infeasible for round 233
+excluding Cube index is: 15
+Permutation for 234 rounds
+After optimized
+0.0786552sec
+Infeasible for round 234
+excluding Cube index is: 15
+Permutation for 235 rounds
+After optimized
+0.0955791sec
+Infeasible for round 235
+excluding Cube index is: 15
+Permutation for 236 rounds
+After optimized
+0.00995636sec
+Infeasible for round 236
+excluding Cube index is: 15
+Permutation for 237 rounds
+After optimized
+0.00696945sec
+Infeasible for round 237
+excluding Cube index is: 15
+Permutation for 238 rounds
+After optimized
+0.00696945sec
+Infeasible for round 238
+excluding Cube index is: 15
+Permutation for 239 rounds
+After optimized
+0.00696945sec
+Infeasible for round 239
+excluding Cube index is: 15
+Permutation for 240 rounds
+After optimized
+0.00696945sec
+Infeasible for round 240
+excluding Cube index is: 15
+Permutation for 241 rounds
+After optimized
+0.00696945sec
+Infeasible for round 241
+excluding Cube index is: 15
+Permutation for 242 rounds
+After optimized
+0.100557sec
+Infeasible for round 242
+excluding Cube index is: 15
+Permutation for 243 rounds
+After optimized
+0.00896072sec
+Infeasible for round 243
+excluding Cube index is: 15
+Permutation for 244 rounds
+After optimized
+0.00796509sec
+Infeasible for round 244
+excluding Cube index is: 15
+Permutation for 245 rounds
+After optimized
+0.00796509sec
+Infeasible for round 245
+excluding Cube index is: 15
+Permutation for 246 rounds
+After optimized
+0.0995617sec
+Infeasible for round 246
+excluding Cube index is: 15
+Permutation for 247 rounds
+After optimized
+0.0119476sec
+Infeasible for round 247
+excluding Cube index is: 15
+Permutation for 248 rounds
+After optimized
+0.00696945sec
+Infeasible for round 248
+excluding Cube index is: 15
+Permutation for 249 rounds
+After optimized
+0.0238953sec
+Infeasible for round 249
+excluding Cube index is: 15
+Permutation for 250 rounds
+After optimized
+0.00995636sec
+Infeasible for round 250
+excluding Cube index is: 15
+Permutation for 251 rounds
+After optimized
+0.021904sec
+Infeasible for round 251
+excluding Cube index is: 15
+Permutation for 252 rounds
+After optimized
+0.00796509sec
+Infeasible for round 252
+excluding Cube index is: 15
+Permutation for 253 rounds
+After optimized
+0.00896072sec
+Infeasible for round 253
+excluding Cube index is: 15
+Permutation for 254 rounds
+After optimized
+0.100557sec
+Infeasible for round 254
+excluding Cube index is: 15
+Permutation for 255 rounds
+After optimized
+0.00896263sec
+Infeasible for round 255
+excluding Cube index is: 15
+Permutation for 256 rounds
+After optimized
+0.00995636sec
+Infeasible for round 256
+excluding Cube index is: 15
+Permutation for 257 rounds
+After optimized
+0.00597191sec
+Infeasible for round 257
+excluding Cube index is: 15
+Permutation for 258 rounds
+After optimized
+0.00796509sec
+Infeasible for round 258
+excluding Cube index is: 15
+Permutation for 259 rounds
+After optimized
+0.103544sec
+Infeasible for round 259
+excluding Cube index is: 15
+Permutation for 260 rounds
+After optimized
+0.007967sec
+Infeasible for round 260
+excluding Cube index is: 15
+Permutation for 261 rounds
+After optimized
+0.00796509sec
+Infeasible for round 261
+excluding Cube index is: 15
+Permutation for 262 rounds
+After optimized
+0.0806427sec
+Infeasible for round 262
+excluding Cube index is: 15
+Permutation for 263 rounds
+After optimized
+0.00896072sec
+Infeasible for round 263
+excluding Cube index is: 15
+Permutation for 264 rounds
+After optimized
+0.00796509sec
+Infeasible for round 264
+excluding Cube index is: 15
+Permutation for 265 rounds
+After optimized
+0.00995827sec
+Infeasible for round 265
+excluding Cube index is: 15
+Permutation for 266 rounds
+After optimized
+0.00895882sec
+Infeasible for round 266
+excluding Cube index is: 15
+Permutation for 267 rounds
+After optimized
+0.0965748sec
+Infeasible for round 267
+excluding Cube index is: 15
+Permutation for 268 rounds
+After optimized
+0.00896072sec
+Infeasible for round 268
+excluding Cube index is: 15
+Permutation for 269 rounds
+After optimized
+0.106531sec
+Infeasible for round 269
+excluding Cube index is: 15
+Permutation for 270 rounds
+After optimized
+0.0238953sec
+Infeasible for round 270
+excluding Cube index is: 15
+Permutation for 271 rounds
+After optimized
+0.0965729sec
+Infeasible for round 271
+excluding Cube index is: 15
+Permutation for 272 rounds
+After optimized
+0.00796318sec
+Infeasible for round 272
+excluding Cube index is: 15
+Permutation for 273 rounds
+After optimized
+0.00796509sec
+Infeasible for round 273
+excluding Cube index is: 15
+Permutation for 274 rounds
+After optimized
+0.0129414sec
+Infeasible for round 274
+excluding Cube index is: 15
+Permutation for 275 rounds
+After optimized
+0.134407sec
+Infeasible for round 275
+excluding Cube index is: 15
+Permutation for 276 rounds
+After optimized
+0.0945854sec
+Infeasible for round 276
+excluding Cube index is: 15
+Permutation for 277 rounds
+After optimized
+0.0258865sec
+Infeasible for round 277
+excluding Cube index is: 15
+Permutation for 278 rounds
+After optimized
+0.0258846sec
+Infeasible for round 278
+excluding Cube index is: 15
+Permutation for 279 rounds
+After optimized
+0.130424sec
+Infeasible for round 279
+excluding Cube index is: 15
+Permutation for 280 rounds
+After optimized
+0.0228977sec
+Infeasible for round 280
+excluding Cube index is: 15
+Permutation for 281 rounds
+After optimized
+0.0308647sec
+Infeasible for round 281
+excluding Cube index is: 15
+Permutation for 282 rounds
+After optimized
+0.0258846sec
+Infeasible for round 282
+excluding Cube index is: 15
+Permutation for 283 rounds
+After optimized
+0.0288734sec
+Infeasible for round 283
+excluding Cube index is: 15
+Permutation for 284 rounds
+After optimized
+0.0308628sec
+Infeasible for round 284
+excluding Cube index is: 15
+Permutation for 285 rounds
+After optimized
+0.0358429sec
+Infeasible for round 285
+excluding Cube index is: 15
+Permutation for 286 rounds
+After optimized
+0.0268822sec
+Infeasible for round 286
+excluding Cube index is: 15
+Permutation for 287 rounds
+After optimized
+0.0278759sec
+Infeasible for round 287
+excluding Cube index is: 15
+Permutation for 288 rounds
+After optimized
+0.0338516sec
+Infeasible for round 288
+excluding Cube index is: 15
+Permutation for 289 rounds
+After optimized
+0.0647144sec
+Infeasible for round 289
+excluding Cube index is: 15
+Permutation for 290 rounds
+After optimized
+0.202108sec
+Infeasible for round 290
+excluding Cube index is: 15
+Permutation for 291 rounds
+After optimized
+0.135405sec
+Infeasible for round 291
+excluding Cube index is: 15
+Permutation for 292 rounds
+After optimized
+0.128433sec
+Infeasible for round 292
+excluding Cube index is: 15
+Permutation for 293 rounds
+After optimized
+0.0288734sec
+Infeasible for round 293
+excluding Cube index is: 15
+Permutation for 294 rounds
+After optimized
+0.0278759sec
+Infeasible for round 294
+excluding Cube index is: 15
+Permutation for 295 rounds
+After optimized
+0.0716839sec
+Infeasible for round 295
+excluding Cube index is: 15
+Permutation for 296 rounds
+After optimized
+0.0248909sec
+Infeasible for round 296
+excluding Cube index is: 15
+Permutation for 297 rounds
+After optimized
+0.0278778sec
+Infeasible for round 297
+excluding Cube index is: 15
+Permutation for 298 rounds
+After optimized
+0.0607319sec
+Infeasible for round 298
+excluding Cube index is: 15
+Permutation for 299 rounds
+After optimized
+0.0557537sec
+Infeasible for round 299
+excluding Cube index is: 15
+Permutation for 300 rounds
+After optimized
+0.0318604sec
+Infeasible for round 300
+excluding Cube index is: 15
+Permutation for 301 rounds
+After optimized
+0.0288754sec
+Infeasible for round 301
+excluding Cube index is: 15
+Permutation for 302 rounds
+After optimized
+0.0418167sec
+Infeasible for round 302
+excluding Cube index is: 15
+Permutation for 303 rounds
+After optimized
+0.0308666sec
+Infeasible for round 303
+excluding Cube index is: 15
+Permutation for 304 rounds
+After optimized
+0.0288715sec
+Infeasible for round 304
+excluding Cube index is: 15
+Permutation for 305 rounds
+After optimized
+0.0288715sec
+Infeasible for round 305
+excluding Cube index is: 15
+Permutation for 306 rounds
+After optimized
+0.0308628sec
+Infeasible for round 306
+excluding Cube index is: 15
+Permutation for 307 rounds
+After optimized
+0.0288734sec
+Infeasible for round 307
+excluding Cube index is: 15
+Permutation for 308 rounds
+After optimized
+0.0388298sec
+Infeasible for round 308
+excluding Cube index is: 15
+Permutation for 309 rounds
+After optimized
+0.139385sec
+Infeasible for round 309
+excluding Cube index is: 15
+Permutation for 310 rounds
+After optimized
+0.124451sec
+Infeasible for round 310
+excluding Cube index is: 15
+Permutation for 311 rounds
+After optimized
+0.144361sec
+Infeasible for round 311
+excluding Cube index is: 15
+Permutation for 312 rounds
+After optimized
+0.130426sec
+Infeasible for round 312
+excluding Cube index is: 15
+Permutation for 313 rounds
+After optimized
+0.156311sec
+Infeasible for round 313
+excluding Cube index is: 15
+Permutation for 314 rounds
+After optimized
+0.14735sec
+Infeasible for round 314
+excluding Cube index is: 15
+Permutation for 315 rounds
+After optimized
+0.127439sec
+Infeasible for round 315
+excluding Cube index is: 15
+Permutation for 316 rounds
+After optimized
+0.0527668sec
+Infeasible for round 316
+excluding Cube index is: 15
+Permutation for 317 rounds
+After optimized
+0.0288734sec
+Infeasible for round 317
+excluding Cube index is: 15
+Permutation for 318 rounds
+After optimized
+0.0607319sec
+Infeasible for round 318
+excluding Cube index is: 15
+Permutation for 319 rounds
+After optimized
+0.245916sec
+Infeasible for round 319
+excluding Cube index is: 15
+Permutation for 320 rounds
+After optimized
+0.155315sec
+Infeasible for round 320
+excluding Cube index is: 15
+Permutation for 321 rounds
+After optimized
+0.281757sec
+Infeasible for round 321
+excluding Cube index is: 15
+Permutation for 322 rounds
+After optimized
+0.0965729sec
+Infeasible for round 322
+excluding Cube index is: 15
+Permutation for 323 rounds
+After optimized
+0.547588sec
+Infeasible for round 323
+excluding Cube index is: 15
+Permutation for 324 rounds
+After optimized
+0.244923sec
+Infeasible for round 324
+excluding Cube index is: 15
+Permutation for 325 rounds
+After optimized
+0.15432sec
+Infeasible for round 325
+excluding Cube index is: 15
+Permutation for 326 rounds
+After optimized
+0.364395sec
+Infeasible for round 326
+excluding Cube index is: 15
+Permutation for 327 rounds
+After optimized
+0.353443sec
+Infeasible for round 327
+excluding Cube index is: 15
+Permutation for 328 rounds
+After optimized
+0.284746sec
+Infeasible for round 328
+excluding Cube index is: 15
+Permutation for 329 rounds
+After optimized
+0.286739sec
+Infeasible for round 329
+excluding Cube index is: 15
+Permutation for 330 rounds
+After optimized
+0.273792sec
+Infeasible for round 330
+excluding Cube index is: 15
+Permutation for 331 rounds
+After optimized
+0.375345sec
+Infeasible for round 331
+excluding Cube index is: 15
+Permutation for 332 rounds
+After optimized
+0.348465sec
+Infeasible for round 332
+excluding Cube index is: 15
+Permutation for 333 rounds
+After optimized
+0.652126sec
+Infeasible for round 333
+excluding Cube index is: 15
+Permutation for 334 rounds
+After optimized
+0.86021sec
+Infeasible for round 334
+excluding Cube index is: 15
+Permutation for 335 rounds
+After optimized
+1.23058sec
+Infeasible for round 335
+excluding Cube index is: 15
+Permutation for 336 rounds
+After optimized
+0.976696sec
+Infeasible for round 336
+excluding Cube index is: 15
+Permutation for 337 rounds
+After optimized
+0.73476sec
+Infeasible for round 337
+excluding Cube index is: 15
+Permutation for 338 rounds
+After optimized
+0.617281sec
+Infeasible for round 338
+excluding Cube index is: 15
+Permutation for 339 rounds
+After optimized
+1.22859sec
+Infeasible for round 339
+excluding Cube index is: 15
+Permutation for 340 rounds
+After optimized
+0.860209sec
+Infeasible for round 340
+excluding Cube index is: 15
+Permutation for 341 rounds
+After optimized
+0.85523sec
+Infeasible for round 341
+excluding Cube index is: 15
+Permutation for 342 rounds
+After optimized
+0.913012sec
+Infeasible for round 342
+excluding Cube index is: 15
+Permutation for 343 rounds
+After optimized
+1.11608sec
+Infeasible for round 343
+excluding Cube index is: 15
+Permutation for 344 rounds
+After optimized
+1.27538sec
+Infeasible for round 344
+excluding Cube index is: 15
+Permutation for 345 rounds
+After optimized
+1.07924sec
+Infeasible for round 345
+excluding Cube index is: 15
+Permutation for 346 rounds
+After optimized
+1.17681sec
+Infeasible for round 346
+excluding Cube index is: 15
+Permutation for 347 rounds
+After optimized
+1.48944sec
+Infeasible for round 347
+excluding Cube index is: 15
+Permutation for 348 rounds
+After optimized
+1.35304sec
+Infeasible for round 348
+excluding Cube index is: 15
+Permutation for 349 rounds
+After optimized
+1.03245sec
+Infeasible for round 349
+excluding Cube index is: 15
+Permutation for 350 rounds
+After optimized
+1.21963sec
+Infeasible for round 350
+excluding Cube index is: 15
+Permutation for 351 rounds
+After optimized
+1.44165sec
+Infeasible for round 351
+excluding Cube index is: 15
+Permutation for 352 rounds
+After optimized
+1.23058sec
+Infeasible for round 352
+excluding Cube index is: 15
+Permutation for 353 rounds
+After optimized
+1.09617sec
+Infeasible for round 353
+excluding Cube index is: 15
+Permutation for 354 rounds
+After optimized
+1.24551sec
+Infeasible for round 354
+excluding Cube index is: 15
+Permutation for 355 rounds
+After optimized
+1.2027sec
+Infeasible for round 355
+excluding Cube index is: 15
+Permutation for 356 rounds
+After optimized
+1.38501sec
+Infeasible for round 356
+excluding Cube index is: 15
+Permutation for 357 rounds
+After optimized
+1.26244sec
+Infeasible for round 357
+excluding Cube index is: 15
+Permutation for 358 rounds
+After optimized
+1.31819sec
+Infeasible for round 358
+excluding Cube index is: 15
+Permutation for 359 rounds
+After optimized
+1.43866sec
+Infeasible for round 359
+excluding Cube index is: 15
+Permutation for 360 rounds
+After optimized
+1.73635sec
+Infeasible for round 360
+excluding Cube index is: 15
+Permutation for 361 rounds
+After optimized
+1.91058sec
+Infeasible for round 361
+excluding Cube index is: 15
+Permutation for 362 rounds
+After optimized
+1.47949sec
+Infeasible for round 362
+excluding Cube index is: 15
+Permutation for 363 rounds
+After optimized
+1.65272sec
+Infeasible for round 363
+excluding Cube index is: 15
+Permutation for 364 rounds
+After optimized
+1.47749sec
+Infeasible for round 364
+excluding Cube index is: 15
+Permutation for 365 rounds
+After optimized
+1.66367sec
+Infeasible for round 365
+excluding Cube index is: 15
+Permutation for 366 rounds
+After optimized
+1.8827sec
+Infeasible for round 366
+excluding Cube index is: 15
+Permutation for 367 rounds
+After optimized
+1.68657sec
+Infeasible for round 367
+excluding Cube index is: 15
+Permutation for 368 rounds
+After optimized
+2.11332sec
+Infeasible for round 368
+excluding Cube index is: 15
+Permutation for 369 rounds
+After optimized
+4.42953sec
+Infeasible for round 369
+excluding Cube index is: 15
+Permutation for 370 rounds
+After optimized
+2.67023sec
+Infeasible for round 370
+excluding Cube index is: 15
+Permutation for 371 rounds
+After optimized
+1.8882sec
+Infeasible for round 371
+excluding Cube index is: 15
+Permutation for 372 rounds
+After optimized
+1.89764sec
+Infeasible for round 372
+excluding Cube index is: 15
+Permutation for 373 rounds
+After optimized
+1.78234sec
+Infeasible for round 373
+excluding Cube index is: 15
+Permutation for 374 rounds
+After optimized
+2.07205sec
+Infeasible for round 374
+excluding Cube index is: 15
+Permutation for 375 rounds
+After optimized
+1.8415sec
+Infeasible for round 375
+excluding Cube index is: 15
+Permutation for 376 rounds
